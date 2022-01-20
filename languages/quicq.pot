@@ -52,7 +52,7 @@ msgid "Join Quicq"
 msgstr ""
 
 #: quicq.php:170
-msgid "Create your free account"
+msgid "Create a URL key in your Afosto account and enter it below to get your images in AVIF or WebP."
 msgstr ""
 
 #: quicq.php:174
